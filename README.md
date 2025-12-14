@@ -39,7 +39,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user_id=245430992&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?username=vexindev-code&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
