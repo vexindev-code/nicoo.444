@@ -1,4 +1,4 @@
-# 👋 Hi, I'm nicoo.444
+# 👋 Hi, I'm refused
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Future+Computer+Engineer;Front-end+%26+Back-end+Developer;Founder+of+life.net;Building+real+things" />
