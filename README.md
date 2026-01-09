@@ -13,9 +13,9 @@
 ## 🚀 About Me
 - 🎓 Preparing to study **Computer Engineering**
 - 💻 Front-end & Back-end Developer
-- 🌐 Founder of **life.net**
+- 🌐 Founder of **liferp.es**
 - 💡 Passionate about technology & building real projects
-- 📍 Argentina, Buenos Aires
+- 📍 Argentina, Chaco
 
 ---
 
